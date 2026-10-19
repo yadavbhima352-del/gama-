@@ -1,0 +1,7 @@
+{
+  "name": "Nova AI",
+  "description": "Experience Nova AI, a next-generation AI assistant featuring premium cyber-luxury aesthetics, instant reasoning, and multi-turn intelligent conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
